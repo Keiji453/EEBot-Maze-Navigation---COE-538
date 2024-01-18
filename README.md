@@ -17,4 +17,4 @@ The navigation software was done using the following concepts:
 Disclaimer:
 A few bumps and issues that our group faced when developing this software.
   - Our robot was very slow! At the time, we had no courses or knowledge of control theory, so our line tracking was simple but also very slow. This was because the corrections the robot made were in static preset distances and the margins for staying on the line were narrow.
-  - Turn timings need to be tweaked. The robots that were used were old and 
+  - Turn timings need to be tweaked. The robots that were used were old and the behaviour of the photodetectors and motors would vary a lot based on the battery voltage.
